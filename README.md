@@ -1,3 +1,6 @@
+<h2>View app</h2>
+GitPages : <b>https://lxvia.github.io/THPdev_S03_quizzGame/</b>
+
 <h2>Download</h2><br>
 git clone : <b>git@github.com:Lxvia/THPdev_S03_quizzGame.git</b>
 <br><br>
